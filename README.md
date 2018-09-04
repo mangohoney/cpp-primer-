@@ -1,2 +1,2 @@
 # exercise
-exercise for books
+My exercise for learning books, just for fun :)
