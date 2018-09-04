@@ -1,2 +1,2 @@
 # cpp-primer-
-exercise of cpp primer
+exercise for books
