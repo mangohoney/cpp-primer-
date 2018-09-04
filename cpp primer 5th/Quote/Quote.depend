@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1505292607 source:f:\z3\tr\quote\l15.6.cpp
+	<iostream>
+	<string>
+	"quote.h"
+	"bulk_quote.h"
+
+1505378094 f:\z3\tr\quote\quote.h
+	<string>
+
+1505378051 f:\z3\tr\quote\bulk_quote.h
+	"disc_quote.h"
+
+1505353769 source:f:\z3\tr\quote\l15.7.cpp
+	<iostream>
+	<string>
+	"quote.h"
+	"bulk_quote.h"
+	"limit_quote.h"
+
+1505379566 f:\z3\tr\quote\disc_quote.h
+	"quote.h"
+
+1505380926 f:\z3\tr\quote\limit_quote.h
+	"disc_quote.h"
+

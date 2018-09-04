@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1501053679 source:f:\z3\tr\7.27\7.27.c
+
+1501134514 source:f:\z3\tr\7.27\7.27.cpp
+	"L7.32.h"
+
+1501060624 f:\z3\tr\7.27\l7.27.h
+	<iostream>
+	<string>
+
+1501134665 f:\z3\tr\7.27\l7.32.h
+	<iostream>
+	<string>
+	<vector>
+

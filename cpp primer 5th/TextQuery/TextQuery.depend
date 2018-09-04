@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1504070164 source:f:\z3\tr\textquery\l12.27.cpp
+	"L12.27.h"
+	<sstream>
+	<algorithm>
+
+1504068791 f:\z3\tr\textquery\l12.27.h
+	<string>
+	<vector>
+	<memory>
+	<iostream>
+	<fstream>
+	<map>
+	<set>
+
+1504068549 source:f:\z3\tr\textquery\test.cpp
+	<iostream>
+	"L12.27.h"
+

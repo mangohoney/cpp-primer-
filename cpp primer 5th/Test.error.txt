@@ -1,0 +1,1 @@
+F:\z3\tr\L11.4.cpp|22|error: no matching function for call to 'remove_if(std::basic_string<char>::iterator, std::basic_string<char>::iterator, <unresolved overloaded function type>)'|

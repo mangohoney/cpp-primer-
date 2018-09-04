@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1502782076 source:f:\z3\tr\l10.32.cpp
+	<iostream>
+	<iterator>
+	<vector>
+	<algorithm>
+	"L10.32\Sale_data.h"
+
+1502781958 f:\z3\tr\l10.32\l10.32.h
+	<string>
+	<iostream>
+
+1502782064 f:\z3\tr\l10.32\sale_data.h
+	<iostream>
+	<string>
+

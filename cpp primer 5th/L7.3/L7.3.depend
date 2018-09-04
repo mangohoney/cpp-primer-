@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1500708621 source:f:\z3\tr\l7.3\l7.3.cpp
+	<iostream>
+	"Sales_data.h"
+
+1500708594 f:\z3\tr\l7.3\sales_data.h
+	<string>
+
+1500708696 source:f:\z3\tr\l7.3\sales_data.cpp
+	"Sales_data.h"
+
+1500864402 source:f:\z3\tr\l7.3\l7.11.cpp
+	<iostream>
+	"L7.11.h"
+
+1500967110 f:\z3\tr\l7.3\l7.11.h
+	<string>
+	<iostream>
+
