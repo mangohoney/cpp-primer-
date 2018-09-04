@@ -1,2 +1,2 @@
-# cpp-primer-
+# exercise
 exercise for books
